@@ -8,7 +8,7 @@ export default function Home() {
 					className='text-4xl bg-gradient-to-r from-slate-900 to-slate-700 bg-clip-text text-transparent pointer-events-none font-nunito font-bold uppercase tracking-widest'
 					id='mv'
 				>
-					Michael P. Vaca
+					Michael Vaca
 				</h1>
 			</main>
 		</>
